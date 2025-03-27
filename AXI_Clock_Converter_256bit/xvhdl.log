@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/song/vivado_sim/AXI_Clock_Converter_256bit/AXI_Clock_Converter/hdl/fifo_generator_v13_2_vhsyn_rfs.vhd" into library work
+ERROR: [VRFC 10-2987] 'fifo_generator_v13_2_5_pkg' is not compiled in library 'fifo_generator_v13_2_5' [/home/song/vivado_sim/AXI_Clock_Converter_256bit/AXI_Clock_Converter/hdl/fifo_generator_v13_2_vhsyn_rfs.vhd:2976]
+ERROR: [VRFC 10-3782] unit 'fifo_generator_v13_2_5_defaults' ignored due to previous errors [/home/song/vivado_sim/AXI_Clock_Converter_256bit/AXI_Clock_Converter/hdl/fifo_generator_v13_2_vhsyn_rfs.vhd:2981]
+INFO: [VRFC 10-3070] VHDL file '/home/song/vivado_sim/AXI_Clock_Converter_256bit/AXI_Clock_Converter/hdl/fifo_generator_v13_2_vhsyn_rfs.vhd' ignored due to errors

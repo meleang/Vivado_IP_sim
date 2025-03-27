@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "Current dir : ${pwd}"
+xvhdl --work=xbip_dsp48_macro_v3_0_18 ./DSP48/HDL/xbip_dsp48_macro_v3_0_vh_rfs.vhd
+xvhdl ./DSP48/HDL/xbip_dsp48_macro_v3_0_vh_rfs.vhd
+xvhdl -f ./vhdl_filelist.f
+xvlog -f ./verilog_filelist.f
+xelab tb_dsp -debug all -s tb_dsp
+xsim tb_dsp -gui -wdb Xilinx_dsp_sim.wdb
