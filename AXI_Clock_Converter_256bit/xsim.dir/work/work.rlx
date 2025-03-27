@@ -1,9 +1,0 @@
-0.7
-2020.2
-Oct 19 2021
-02:56:52
-/home/song/vivado_sim/AXI_Clock_Converter_256bit/AXI_Clock_Converter/hdl/axi_clock_converter_v2_1_vl_rfs.v,1743065068,verilog,,/home/song/vivado_sim/AXI_Clock_Converter_256bit/AXI_Clock_Converter/hdl/fifo_generator_v13_2_rfs.v,/home/song/vivado_sim/AXI_Clock_Converter_256bit/AXI_Clock_Converter/hdl/axi_infrastructure_v1_1_0.vh,axi_clock_converter_v2_1_21_axi_clock_converter;axi_clock_converter_v2_1_21_axic_sample_cycle_ratio;axi_clock_converter_v2_1_21_axic_sync_clock_converter;axi_clock_converter_v2_1_21_lite_async,,,,,,,,
-/home/song/vivado_sim/AXI_Clock_Converter_256bit/AXI_Clock_Converter/hdl/axi_infrastructure_v1_1_0.vh,1743065068,verilog,,,,,,,,,,,,
-/home/song/vivado_sim/AXI_Clock_Converter_256bit/AXI_Clock_Converter/hdl/axi_infrastructure_v1_1_vl_rfs.v,1743065068,verilog,,/home/song/vivado_sim/AXI_Clock_Converter_256bit/AXI_Clock_Converter/hdl/axi_clock_converter_v2_1_vl_rfs.v,/home/song/vivado_sim/AXI_Clock_Converter_256bit/AXI_Clock_Converter/hdl/axi_infrastructure_v1_1_0.vh,axi_infrastructure_v1_1_0_axi2vector;axi_infrastructure_v1_1_0_axic_srl_fifo;axi_infrastructure_v1_1_0_vector2axi,,,,,,,,
-/home/song/vivado_sim/AXI_Clock_Converter_256bit/AXI_Clock_Converter/hdl/fifo_generator_v13_2_rfs.v,1743065068,verilog,,,,fifo_generator_v13_2_5,,,,,,,,
-/home/song/vivado_sim/AXI_Clock_Converter_256bit/AXI_Clock_Converter/sim/axi_clock_converter_0.v,1743065068,verilog,,/home/song/vivado_sim/AXI_Clock_Converter_256bit/AXI_Clock_Converter/hdl/axi_infrastructure_v1_1_vl_rfs.v,,axi_clock_converter_0,,,,,,,,

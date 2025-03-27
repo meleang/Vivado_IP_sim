@@ -1,0 +1,3 @@
+xvlog -sv -L unisims_ver ./glbl.v ./tb_AXI_Clock_Converter.sv ./axi_clock_converter_0_sim_netlist.v
+
+xelab -L unisims_ver tb_axi_clock_converter glbl -debug all -s tb_axi_clock_converter
